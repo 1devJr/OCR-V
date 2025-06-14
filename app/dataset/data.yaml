@@ -1,0 +1,4 @@
+train: /app/app/dataset/images/train
+val: /app/app/dataset/images/val
+nc: 2
+names: ['correta', 'errada']
